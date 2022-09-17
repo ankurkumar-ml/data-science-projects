@@ -22,3 +22,11 @@ genres etc.
   - [Sentiment Analysis](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Developed a sentiment analysis model on the IMDB reviews dataset to
 predict the sentiment of the movie review using recurrent neural
 networks (LSTM) with Pytorch.
+
+   - [Email Classification using word embeddings & RNNs](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Developed an email classification model using word embeddings (word2vec, Glove) and recurrent neural networks (RNNS) achieving 81% validation accuracy using Glove embeddings.
+
+
+- ### Machine Learning
+  - [Email Classification](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Developed a sentiment analysis model on the IMDB reviews dataset to
+predict the sentiment of the movie review using recurrent neural
+networks (LSTM) with Pytorch.
