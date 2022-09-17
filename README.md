@@ -23,14 +23,14 @@ genres etc.
 predict the sentiment of the movie review using recurrent neural
 networks (LSTM) with Pytorch.
 
-   - [Email Classification using word embeddings & RNNs](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Developed an email classification model using word embeddings (word2vec, Glove) and recurrent neural networks (RNNS) achieving 81% validation accuracy using Glove embeddings.
+   - [Email Classification using word embeddings & RNNs](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/enron-email-classification-using-word-embeddings.ipynb): Developed an email classification model using word embeddings (word2vec, Glove) and recurrent neural networks (RNNS) achieving 81% validation accuracy using Glove embeddings.
 
-  - [Text rotation detection](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Developed a CNN model to predict the rotation of text image using vgg16 network and Keras, achieving 88.64% validation accuracy.
+  - [Text rotation detection](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/text-rotation-detection.ipynb): Developed a CNN model to predict the rotation of text image using vgg16 network and Keras, achieving 88.64% validation accuracy.
 
-  - [Face Mask Detection](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Created a face mask detection model to detect if a person is wearing mask or not using resnet50 convolutional neural network achieving 95.95% accuracy on the validation data.
+  - [Face Mask Detection](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/face-mask-detection.ipynb): Created a face mask detection model to detect if a person is wearing mask or not using resnet50 convolutional neural network achieving 95.95% accuracy on the validation data.
 
-  - [Malaria Detection](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Trained a CNN model on cell's images of malaria (having and not having) using InceptionNet and Keras achieving 96.09% validation accuracy.
+  - [Malaria Detection](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/detecting-malaria-using-inceptionnet.ipynb): Trained a CNN model on cell's images of malaria (having and not having) using InceptionNet and Keras achieving 96.09% validation accuracy.
 
 
 - ### Machine Learning
-  - [Email Classification](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/sentiment-analysis-using-lstm-pytorch.ipynb): Compared different machine learning models to model text classification problem using different text representation techniques like bag of words representation, TFidf represenation and calculated the accuracy and training time of each algorithm.
+  - [Email Classification](https://github.com/ankurkumar-ml/data-science-projects/blob/main/notebooks/enron-email-classification-using-machine-learning.ipynb): Compared different machine learning models to model text classification problem using different text representation techniques like bag of words representation, TFidf represenation and calculated the accuracy and training time of each algorithm.
